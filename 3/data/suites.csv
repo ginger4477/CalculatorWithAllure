@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","2","","CalculatorTest","","CalculatorTest","testCalcMinus","testCalcMinus()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","17","","CalculatorTest","","CalculatorTest","testIsNumberNotValid","testIsNumberNotValid()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","2","","CalculatorTest","","CalculatorTest","testIsValidOperatorValid","testIsValidOperatorValid()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","0","","CalculatorTest","","CalculatorTest","testCalcDivision","testCalcDivision()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","0","","CalculatorTest","","CalculatorTest","testCalcPlus","testCalcPlus()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","1","","CalculatorTest","","CalculatorTest","testCalcMultiply","testCalcMultiply()",""
+"passed","Sun Mar 19 16:26:28 GMT 2023","Sun Mar 19 16:26:28 GMT 2023","0","","CalculatorTest","","CalculatorTest","testIsNumberValid","testIsNumberValid()",""
